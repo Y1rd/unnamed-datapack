@@ -10,7 +10,7 @@
                 "config": {
                     "features": [
                         {
-                            "chance": 0.05,
+                            "chance": 0.03,
                             "feature": {
                                 "feature": {
                                     "type": "minecraft:simple_block",
@@ -38,7 +38,7 @@
                             }
                         },
                         {
-                            "chance": 0.7,
+                            "chance": 0.4,
                             "feature": {
                                 "feature": {
                                     "type": "minecraft:simple_block",
@@ -63,7 +63,7 @@
                             }
                         },
                         {
-                            "chance": 0.08,
+                            "chance": 0.05,
                             "feature": {
                                 "feature": {
                                     "type": "minecraft:simple_block",
